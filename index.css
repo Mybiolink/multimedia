@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -52,4 +52,10 @@ p {
     font-size: 9px;
     color: black;
     font-family: 'Montserrat', sans-serif;
+}
+
+@media (max-width: 576px) {
+    body {
+        background-image: url(img2/bg.png);
+    }
 }
