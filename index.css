@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 19px;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copy p img {
+    font-size: 10px;
+}
+
+.container1 {
+    margin: 5px;
+    padding-bottom: 50px;
+    padding-right: ;
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+    height: 35px;
+    width: 260px;
+    --animate-duration: 1.5s;
+    margin: 15px;
+    border-radius: 15px;
+    border: 0px solid;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 2px 5px 2px gray;
+}
+
+.container1 a {
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: rgb(59, 176, 255);
+    transition: 0.5s;
+}
+
+p {
+    padding-top: 30px;
+    font-size: 9px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}

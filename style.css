@@ -1,0 +1,24 @@
+            .carousel-inner {
+                padding-right: 30px!important;
+                padding-left: 18px!important;
+                padding-top: 10px;
+            }
+            
+            .carousel-item {
+                width: 320px !important;
+            }
+            
+            .button {
+                text-align: center !important;
+                margin: 10px !important;
+            }
+            
+            button {
+                border-radius: 10px !important;
+                width: 70px !important;
+                border: 0px solid;
+            }
+            
+            button:hover {
+                background-color: rgb(59, 176, 255) !important;
+            }
