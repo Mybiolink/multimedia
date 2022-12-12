@@ -22,12 +22,3 @@ button {
 button:hover {
     background-color: rgb(59, 176, 255) !important;
 }
-
-@media (max-width: 576px) {
-    body {
-        background-image: url(img2/bg4.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: absoulute;
-    }
-}
