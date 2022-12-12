@@ -57,5 +57,7 @@ p {
 @media (max-width: 576px) {
     body {
         background-image: url(img2/bg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 }
