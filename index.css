@@ -59,5 +59,6 @@ p {
         background-image: url(img2/bg.png);
         background-repeat: no-repeat;
         background-size: cover;
+        background-position: absoulute;
     }
 }
