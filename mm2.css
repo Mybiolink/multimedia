@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(243, 164, 125) !important;
+}
+
 .carousel-inner {
     padding-right: 30px!important;
     padding-left: 18px!important;
