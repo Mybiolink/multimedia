@@ -54,11 +54,12 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
-@media (max-width: 576px) {
+
+/* @media (max-width: 576px) {
     body {
         background-image: url(img2/bg7.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: absoulute;
     }
-}
+} */
