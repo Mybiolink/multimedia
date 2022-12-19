@@ -10,7 +10,7 @@ body {
 h1 {
     font-size: 20px;
     margin: 19px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -54,12 +54,11 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
-
-/* @media (max-width: 576px) {
+@media (max-width: 576px) {
     body {
-        background-image: url(img2/bg7.png);
+        background-image: url(img2/bg10.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: absoulute;
     }
-} */
+}
